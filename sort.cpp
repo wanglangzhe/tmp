@@ -4,7 +4,9 @@
 using namespace std;
 
 #define MAXN 111111
+
 //for my angel
+//she can't hear what i say?
 int n, a[MAXN];
 
 int main(){
