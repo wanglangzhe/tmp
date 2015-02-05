@@ -4,7 +4,7 @@
 using namespace std;
 
 #define MAXN 111111
-
+//for my angel
 int n, a[MAXN];
 
 int main(){
